@@ -2,7 +2,7 @@
 <h3 align="center">Focused developer, who likes to study and learn new things😜</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/angaisdev?label=AnGaisDev&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/AnGaisDev?logo=GitHub&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/AnGais?logo=GitHub&style=for-the-badge)
 
 - 🔭 I am currently looking for work.
 
