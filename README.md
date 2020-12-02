@@ -1,25 +1,17 @@
-<h1 align="center">Hi 👋, I'm Gabriel Pires (AnGais)</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I'm Gabriel Almeida (AnGais)</h1>
 <h3 align="center">Focused developer, who likes to study and learn new things😜</h3>
 
-[![Linkedin_Badge](http://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrieldealmeidapires/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/gabrieldealmeidapires/)
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/eduardojose)](https://whats.link/angais)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:duduxss3@gmail.com)](mailto:angaisdev@gmail.com)
+[![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=appveyor&color=14274e&link=https://sourcerer.io/duduxs)]([angais | Sourcerer](https://sourcerer.io/angais))
 
-[![Gmail Badge](https://img.shields.io/badge/-angaisdev@gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:angaisdev@gmail.com)](mailto:angaisdev@gmail.com)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/angaisdev?label=AnGaisDev&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/AnGais?logo=GitHub&style=for-the-badge)
 
 - 🔭 I am currently looking for work.
-
 - 🌱 I am currently improving **Machine**  **Learning** **and** **Big Date**.
-
 - 👯 I’m looking to collaborate with **other content creators**
-
 - ⚡ Curiosity **I love studying and playing on the computer to distract the mind**.
-
-### Connect with me:
-
-<a href="https://twitter.com/angaisdev" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="angaisdev" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/gabrieldealmeidapires" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrieldealmeidapire" height="22" width="22" /></a>
 
 ### Languages and Tools:
 
@@ -27,6 +19,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angais&show_icons=true" alt="angais" /></p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=angais) 
 
 
+
+<hr>
