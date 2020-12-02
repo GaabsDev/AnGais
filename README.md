@@ -4,9 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/gabrieldealmeidapires/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/eduardojose)](https://whats.link/angais)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:duduxss3@gmail.com)](mailto:angaisdev@gmail.com)
-[![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=appveyor&color=14274e&link=https://sourcerer.io/duduxs)]([angais | Sourcerer](https://sourcerer.io/angais))
-
-
+![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=appveyor&color=14274e&link=https://sourcerer.io/angais)
 
 - 🔭 I am currently looking for work.
 - 🌱 I am currently improving **Machine**  **Learning** **and** **Big Date**.
