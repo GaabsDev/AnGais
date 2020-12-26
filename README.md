@@ -11,7 +11,7 @@
 
 - ⚡ Curiosity **I love to study, read books and games on the computer to distract the mind **.
 
-  <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/logo-1889510-1597570.png" alt="Linkedin" href="https://www.linkedin.com/in/gabrieldealmeidapires/"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/gmail-2923657-2416660.png" alt="Gmail" href="mailto:angaisdev@gmail.com"/> 
+  <img height="36" src="https://cdn.iconscout.com/icon/free/png-512/logo-1889510-1597570.png" alt="Linkedin" href="https://www.linkedin.com/in/gabrieldealmeidapires/"/> <img height="36" src="https://cdn.iconscout.com/icon/free/png-512/gmail-2923657-2416660.png" alt="Gmail" href="mailto:angaisdev@gmail.com"/> 
 
 ## My Development Stack
 
