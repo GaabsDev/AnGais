@@ -1,25 +1,70 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I'm Gabriel Almeida (AnGais)</h1>
-<h3 align="center">Focused developer, who likes to study and learn new things😜</h3>
+<h3 align = "center"> Focused FullStack developer, who likes to study and learn new things😜 </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/gabrieldealmeidapires/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&color=14274e&link=https://whats.link/eduardojose)](https://whats.link/angais)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=14274e&link=mailto:duduxss3@gmail.com)](mailto:angaisdev@gmail.com)
-![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer.io-6633cc?style=flat-square&logo=appveyor&color=14274e&link=https://sourcerer.io/angais)
+### 
 
-- 🔭 I am currently looking for work.
-- 🌱 I am currently improving **Machine**  **Learning** **and** **Big Date**.
-- 👯 I’m looking to collaborate with **other content creators**
-- ⚡ Curiosity **I love studying and playing on the computer to distract the mind**.
+- 🍀 Front-End Developer at Sorte Online.
+- 💻 I'm always studying and learning new things.
+- 👊 I intend to collaborate with **other developers and content creators**
+- ⚡ Curiosity **I love to study, read books and games on the computer to distract the mind **.
 
-### Languages and Tools:
+## My Development Stack
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" alt="android" width="22" height="22"/><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="22" height="22"/><img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original.svg" alt="dot-net" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg" alt="ruby" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservices" width="22" height="22"/> </p>
+**Application and Data**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angais&=anuraghazra&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dotnet-1175177.png" alt="DotNet"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/c-57-1175191.png" alt="C"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/c-sharp-1-569575.png" alt="C#"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/c-plus-569563.png" alt="C++"/> <img height="42" src="https://cdn.iconscout.com/icon/free/png-512/ruby-44-1175099.png" alt="Ruby"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/javascript-23-1174949.png" alt="JavaScript"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/html-5-1-1175208.png" alt="Html5"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="Css3"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/python-2752092-2284909.png" alt="Python"/><img height="48" src="https://cdn.iconscout.com/icon/free/png-512/swift-13-722653.png" alt="Swift"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/android-206-675862.png" alt="Android"/> <img height="42" src="https://cdn.iconscout.com/icon/free/png-512/kotlin-283155.png" alt="Kotlin"/><img height="56" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" alt="MongoDB"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/redis-6-1175105.png" alt="Redis"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/mysql-4-226026.png" alt="Mysql"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png " alt="PostGresql"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png" alt="Firebase"/> 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=angais&=anuraghazra&theme=dark&show_icons=true) 
+**Libraries, Runtime and Frameworks**
+
+<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="NodeJS"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/logo-1889531-1597591.png" alt="React"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/react-native-555397.png" alt="React Native"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/vuejs-3-1175070.png" alt="VueJs"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/meteor-83-1175143.png" alt="Meteor"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/jquery-7-1175152.png" alt="DotNet"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/coffeescript-3-1175190.png" alt="DotNet"/>  <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/laravel-2038872-1720085.png" alt="Laravel"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png" alt="Django"/><img height="48" src="https://cdn.iconscout.com/icon/free/png-512/angular-3-226070.png" alt="DotNet"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/ionic-4-1175016.png" alt="DotNet"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-7-1175254.png" alt="DotNet"/> 
+
+**Utilities**
+
+<img height="42" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/><img height="48" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/>
+
+**DevOps**
+
+<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/github-31-72535.png" alt="GitHub"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/gitlab-3050926-2538294.png" alt="Gitlab"/><img height="56" src="https://cdn.iconscout.com/icon/free/png-512/bitbucket-2752232-2285049.png" alt="Bitbucket"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/azure-1868965-1583129.png" alt="Azure Devops"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/aws-282739.png" alt="Aws"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/social-285-116319.png" alt="Git"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/kubernets-283489.png" alt="Kubernets"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/docker-3050921-2538289.png" alt="Docker"/> 
 
 
 
-<hr>
+**Ui/Ux Design**
 
+<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/ai-22-213669.png" alt="Ilustrator"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/ps-18-213667.png" alt="PSD"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/adobe-xd-1607248-1361791.png" alt="XD"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/figma-1693589-1442630.png" alt="Figma"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/sketch-70-1174968.png" alt="Notion"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/inkscape-569205.png" alt="Inkscape"/> 
+
+**Business Tools**
+
+<img height="56" src="https://cdn.iconscout.com/icon/free/png-512/jira-2296055-1912014.png" alt="Jira"/><img height="38" src="https://232924.apps.zdusercontent.com/232924/assets/1579259063-9eaa196f4d4eeff0ff0c915b800a9730/logo.png" alt="ClickUp"/><img height="42" src="https://cdn.iconscout.com/icon/free/png-512/trello-226534.png" alt="Trello"/> <img height="42" src="https://cdn.iconscout.com/icon/free/png-512/slack-logo-1481728-1254330.png" alt="Slack"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/asana-226537.png" alt="Docker"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/sap-5-569505.png" alt="Docker"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/notion-2489170-2082894.png" alt="Notion"/>  
+
+**Integrated Development Environment**
+
+<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-569577.png" alt="Visual Studio"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/logo-1889502-1597562.png" alt="Notion"/><img height="46" src="https://cdn.iconscout.com/icon/free/png-512/sublime-439588.png" alt="Notion"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/terminal-15-439174.png" alt="Notion"/>
+
+**Operational Systems**
+
+<img height="48" src="https://cdn.iconscout.com/icon/free/png-512/windows-3050920-2538288.png" alt="Windows"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/linux-17-570099.png" alt="Linux"/><img height="56" src="https://cdn.iconscout.com/icon/free/png-512/mac-17-202401.png" alt="MacOs"/>
+
+## My latest posts
+
+<br/>
+
+- 📌 [Como ser um desenvolvedor front-end melhor]([Como ser um desenvolvedor front-end melhor | LinkedIn](https://www.linkedin.com/pulse/como-ser-um-desenvolvedor-front-end-melhor-gabriel-almeida/))<br />
+- 📌 [Aplicativos nativos vs. WordPress PWAs: Que a batalha comece](https://www.linkedin.com/pulse/aplicativos-nativos-vs-wordpress-pwas-que-batalha-comece-almeida/)
+
+<br/>
+
+## Coding Activity
+
+<br/>
+
+[![Anurag's github stats](https://camo.githubusercontent.com/ef7000c5672ab07edb35cfd07afe288c3368e0d5e1f0eb8cc1aa1604061aee40/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e67616973263d616e7572616768617a7261267468656d653d6461726b2673686f775f69636f6e733d74727565)](https://camo.githubusercontent.com/ef7000c5672ab07edb35cfd07afe288c3368e0d5e1f0eb8cc1aa1604061aee40/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e67616973263d616e7572616768617a7261267468656d653d6461726b2673686f775f69636f6e733d74727565)
+
+
+
+<br/>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/angais/angais" alt="Visitors badge" />
+   </a>
+</p>
