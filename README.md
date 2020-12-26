@@ -34,7 +34,7 @@
 
 **Business Tools**
 
-<img height="56" src="https://cdn.iconscout.com/icon/free/png-512/jira-1693573-1442614.png" alt="Jira"/><img height="38" src="https://232924.apps.zdusercontent.com/232924/assets/1579259063-9eaa196f4d4eeff0ff0c915b800a9730/logo.png" alt="ClickUp"/><img height="42" src="https://cdn.iconscout.com/icon/free/png-512/trello-226534.png" alt="Trello"/> <img height="42" src="https://cdn.iconscout.com/icon/free/png-512/slack-logo-1481728-1254330.png" alt="Slack"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/asana-226537.png" alt="Docker"/> <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/sap-5-569505.png" alt="Docker"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/notion-2489170-2082894.png" alt="Notion"/>  
+<img height="56" src="https://img.icons8.com/color/344/jira.png" alt="Jira"/> <img height="38" src="https://232924.apps.zdusercontent.com/232924/assets/1579259063-9eaa196f4d4eeff0ff0c915b800a9730/logo.png" alt="ClickUp"/> <img height="42" src="https://cdn.iconscout.com/icon/free/png-512/trello-226534.png" alt="Trello"/>  <img height="42" src="https://cdn.iconscout.com/icon/free/png-512/slack-logo-1481728-1254330.png" alt="Slack"/>  <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/asana-226537.png" alt="Docker"/>  <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/sap-5-569505.png" alt="Docker"/>  <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/notion-2489170-2082894.png" alt="Notion"/>  
 
 **Integrated Development Environment**
 
