@@ -3,7 +3,7 @@
 
 ### 
 
-- 🍀 Front-End Developer at Sorte Online.
+- 🍀 Developer, passionate about technology, stick to all work.
 
 - 💻 I'm always studying and learning new things.
 
