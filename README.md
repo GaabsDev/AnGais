@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I'm Gabriel Almeida (GaabsDev)</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,  I'm Gabriel Almeida (GaabsDev😜)</h1>
 <h3 align = "center"> Focused FullStack developer, who likes to study and learn new things😜 </h3>
 
 ### 
