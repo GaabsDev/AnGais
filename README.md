@@ -62,14 +62,11 @@
 
 <br/>
 
-[![Anurag's github stats](https://camo.githubusercontent.com/ef7000c5672ab07edb35cfd07afe288c3368e0d5e1f0eb8cc1aa1604061aee40/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e67616973263d616e7572616768617a7261267468656d653d6461726b2673686f775f69636f6e733d74727565)](https://camo.githubusercontent.com/ef7000c5672ab07edb35cfd07afe288c3368e0d5e1f0eb8cc1aa1604061aee40/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e67616973263d616e7572616768617a7261267468656d653d6461726b2673686f775f69636f6e733d74727565)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GaabsDev&show_icons=true)  
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GaabsDev)<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 <br/>
 
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/angais/angais" alt="Visitors badge" />
-   </a>
-</p>
+![Profile views](https://gpvc.arturio.dev/GaabsDev)  
+
